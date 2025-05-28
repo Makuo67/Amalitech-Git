@@ -3,7 +3,7 @@ name: Run Tests and Notify Slack
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   test:
