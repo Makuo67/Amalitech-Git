@@ -1,0 +1,23 @@
+{
+  "name": "amalitech-git",
+  "version": "1.0.0",
+  "description": "- Integration with Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makuo67/Amalitech-Git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makuo67/Amalitech-Git/issues"
+  },
+  "homepage": "https://github.com/Makuo67/Amalitech-Git#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
